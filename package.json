@@ -1,0 +1,17 @@
+{
+  "name": "the wind",
+  "version": "1.0.0",
+  "description": "discord bot that replies to variations of 'it mustve been the wind'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "omimilk",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.9"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
