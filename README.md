@@ -18,7 +18,7 @@ cuz it really wasn't me! i swear! (uwu)
 
 ### 1. clone the repo
 ```bash
-git clone [https://github.com/omimilk/discord-autoresponder-bot.git](https://github.com/omimilk/discord-autoresponder-bot.git)
+git clone https://github.com/omimilk/discord-autoresponder-bot.git
 cd discord-autoresponder-bot
 ```
 
